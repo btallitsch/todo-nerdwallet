@@ -72,4 +72,4 @@ yarn dev
 
 ## Deployment
 
-This project is deployed on Vercel and can be accessed at: [your-vercel-url]
+This project is deployed on Vercel and can be accessed at: [https://todo-nerdwallet.vercel.app/](https://todo-nerdwallet.vercel.app/)
